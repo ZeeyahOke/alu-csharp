@@ -1,0 +1,14 @@
+/Users/fawzo1/alu-csharp/csharp-hello_world/7-concat/bin/Debug/net7.0/7-concat
+/Users/fawzo1/alu-csharp/csharp-hello_world/7-concat/bin/Debug/net7.0/7-concat.deps.json
+/Users/fawzo1/alu-csharp/csharp-hello_world/7-concat/bin/Debug/net7.0/7-concat.runtimeconfig.json
+/Users/fawzo1/alu-csharp/csharp-hello_world/7-concat/bin/Debug/net7.0/7-concat.dll
+/Users/fawzo1/alu-csharp/csharp-hello_world/7-concat/bin/Debug/net7.0/7-concat.pdb
+/Users/fawzo1/alu-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fawzo1/alu-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.AssemblyInfoInputs.cache
+/Users/fawzo1/alu-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.AssemblyInfo.cs
+/Users/fawzo1/alu-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.csproj.CoreCompileInputs.cache
+/Users/fawzo1/alu-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.dll
+/Users/fawzo1/alu-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/refint/7-concat.dll
+/Users/fawzo1/alu-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.pdb
+/Users/fawzo1/alu-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.genruntimeconfig.cache
+/Users/fawzo1/alu-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/ref/7-concat.dll
