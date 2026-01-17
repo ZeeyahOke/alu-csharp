@@ -1,0 +1,14 @@
+/Users/fawzo1/alu-csharp/csharp-hello_world/4-print_integer/bin/Debug/net7.0/4-print_integer
+/Users/fawzo1/alu-csharp/csharp-hello_world/4-print_integer/bin/Debug/net7.0/4-print_integer.deps.json
+/Users/fawzo1/alu-csharp/csharp-hello_world/4-print_integer/bin/Debug/net7.0/4-print_integer.runtimeconfig.json
+/Users/fawzo1/alu-csharp/csharp-hello_world/4-print_integer/bin/Debug/net7.0/4-print_integer.dll
+/Users/fawzo1/alu-csharp/csharp-hello_world/4-print_integer/bin/Debug/net7.0/4-print_integer.pdb
+/Users/fawzo1/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/net7.0/4-print_integer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fawzo1/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/net7.0/4-print_integer.AssemblyInfoInputs.cache
+/Users/fawzo1/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/net7.0/4-print_integer.AssemblyInfo.cs
+/Users/fawzo1/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/net7.0/4-print_integer.csproj.CoreCompileInputs.cache
+/Users/fawzo1/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/net7.0/4-print_integer.dll
+/Users/fawzo1/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/net7.0/refint/4-print_integer.dll
+/Users/fawzo1/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/net7.0/4-print_integer.pdb
+/Users/fawzo1/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/net7.0/4-print_integer.genruntimeconfig.cache
+/Users/fawzo1/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/net7.0/ref/4-print_integer.dll
