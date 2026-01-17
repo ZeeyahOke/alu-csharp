@@ -1,0 +1,14 @@
+/Users/fawzo1/alu-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net7.0/9-print_specifiers
+/Users/fawzo1/alu-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net7.0/9-print_specifiers.deps.json
+/Users/fawzo1/alu-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net7.0/9-print_specifiers.runtimeconfig.json
+/Users/fawzo1/alu-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net7.0/9-print_specifiers.dll
+/Users/fawzo1/alu-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net7.0/9-print_specifiers.pdb
+/Users/fawzo1/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fawzo1/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.AssemblyInfoInputs.cache
+/Users/fawzo1/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.AssemblyInfo.cs
+/Users/fawzo1/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.csproj.CoreCompileInputs.cache
+/Users/fawzo1/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.dll
+/Users/fawzo1/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/refint/9-print_specifiers.dll
+/Users/fawzo1/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.pdb
+/Users/fawzo1/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.genruntimeconfig.cache
+/Users/fawzo1/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/ref/9-print_specifiers.dll
