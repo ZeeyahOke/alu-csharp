@@ -1,0 +1,14 @@
+/Users/fawzo1/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net7.0/6-print_string
+/Users/fawzo1/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net7.0/6-print_string.deps.json
+/Users/fawzo1/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net7.0/6-print_string.runtimeconfig.json
+/Users/fawzo1/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net7.0/6-print_string.dll
+/Users/fawzo1/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net7.0/6-print_string.pdb
+/Users/fawzo1/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fawzo1/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.AssemblyInfoInputs.cache
+/Users/fawzo1/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.AssemblyInfo.cs
+/Users/fawzo1/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.csproj.CoreCompileInputs.cache
+/Users/fawzo1/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.dll
+/Users/fawzo1/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/refint/6-print_string.dll
+/Users/fawzo1/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.pdb
+/Users/fawzo1/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.genruntimeconfig.cache
+/Users/fawzo1/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/ref/6-print_string.dll
