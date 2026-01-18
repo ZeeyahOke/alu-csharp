@@ -1,0 +1,14 @@
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/net7.0/12-fizzbuzz
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/net7.0/12-fizzbuzz.deps.json
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/net7.0/12-fizzbuzz.runtimeconfig.json
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/net7.0/12-fizzbuzz.dll
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/net7.0/12-fizzbuzz.pdb
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net7.0/12-fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net7.0/12-fizzbuzz.AssemblyInfoInputs.cache
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net7.0/12-fizzbuzz.AssemblyInfo.cs
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net7.0/12-fizzbuzz.csproj.CoreCompileInputs.cache
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net7.0/12-fizzbuzz.dll
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net7.0/refint/12-fizzbuzz.dll
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net7.0/12-fizzbuzz.pdb
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net7.0/12-fizzbuzz.genruntimeconfig.cache
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net7.0/ref/12-fizzbuzz.dll

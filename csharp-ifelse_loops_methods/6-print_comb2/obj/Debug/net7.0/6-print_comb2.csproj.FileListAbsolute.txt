@@ -1,0 +1,14 @@
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/bin/Debug/net7.0/6-print_comb2
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/bin/Debug/net7.0/6-print_comb2.deps.json
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/bin/Debug/net7.0/6-print_comb2.runtimeconfig.json
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/bin/Debug/net7.0/6-print_comb2.dll
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/bin/Debug/net7.0/6-print_comb2.pdb
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net7.0/6-print_comb2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net7.0/6-print_comb2.AssemblyInfoInputs.cache
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net7.0/6-print_comb2.AssemblyInfo.cs
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net7.0/6-print_comb2.csproj.CoreCompileInputs.cache
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net7.0/6-print_comb2.dll
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net7.0/refint/6-print_comb2.dll
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net7.0/6-print_comb2.pdb
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net7.0/6-print_comb2.genruntimeconfig.cache
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net7.0/ref/6-print_comb2.dll

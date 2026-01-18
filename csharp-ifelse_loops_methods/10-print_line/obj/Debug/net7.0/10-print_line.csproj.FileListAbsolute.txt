@@ -1,0 +1,14 @@
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/10-print_line/bin/Debug/net7.0/10-print_line
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/10-print_line/bin/Debug/net7.0/10-print_line.deps.json
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/10-print_line/bin/Debug/net7.0/10-print_line.runtimeconfig.json
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/10-print_line/bin/Debug/net7.0/10-print_line.dll
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/10-print_line/bin/Debug/net7.0/10-print_line.pdb
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net7.0/10-print_line.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net7.0/10-print_line.AssemblyInfoInputs.cache
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net7.0/10-print_line.AssemblyInfo.cs
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net7.0/10-print_line.csproj.CoreCompileInputs.cache
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net7.0/10-print_line.dll
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net7.0/refint/10-print_line.dll
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net7.0/10-print_line.pdb
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net7.0/10-print_line.genruntimeconfig.cache
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net7.0/ref/10-print_line.dll

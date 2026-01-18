@@ -1,0 +1,14 @@
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/net7.0/4-print_hexa
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/net7.0/4-print_hexa.deps.json
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/net7.0/4-print_hexa.runtimeconfig.json
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/net7.0/4-print_hexa.dll
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/net7.0/4-print_hexa.pdb
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.AssemblyInfoInputs.cache
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.AssemblyInfo.cs
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.csproj.CoreCompileInputs.cache
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.dll
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/refint/4-print_hexa.dll
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.pdb
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.genruntimeconfig.cache
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/ref/4-print_hexa.dll
