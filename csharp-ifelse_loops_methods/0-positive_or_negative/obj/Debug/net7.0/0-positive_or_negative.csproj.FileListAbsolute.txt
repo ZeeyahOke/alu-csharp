@@ -1,0 +1,14 @@
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/net7.0/0-positive_or_negative
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/net7.0/0-positive_or_negative.deps.json
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/net7.0/0-positive_or_negative.runtimeconfig.json
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/net7.0/0-positive_or_negative.dll
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/net7.0/0-positive_or_negative.pdb
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/net7.0/0-positive_or_negative.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/net7.0/0-positive_or_negative.AssemblyInfoInputs.cache
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/net7.0/0-positive_or_negative.AssemblyInfo.cs
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/net7.0/0-positive_or_negative.csproj.CoreCompileInputs.cache
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/net7.0/0-positive_or_negative.dll
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/net7.0/refint/0-positive_or_negative.dll
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/net7.0/0-positive_or_negative.pdb
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/net7.0/0-positive_or_negative.genruntimeconfig.cache
+/Users/fawzo1/alu-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/net7.0/ref/0-positive_or_negative.dll
