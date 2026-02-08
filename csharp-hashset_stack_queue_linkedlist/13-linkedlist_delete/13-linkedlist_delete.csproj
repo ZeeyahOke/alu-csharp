@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework> <!-- Your target framework -->
+    <LangVersion>7.0</LangVersion> <!-- Setting C# version to 7.0 -->
+  </PropertyGroup>
+</Project>
