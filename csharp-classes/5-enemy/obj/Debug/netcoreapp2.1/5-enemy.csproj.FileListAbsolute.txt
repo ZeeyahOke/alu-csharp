@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\5-enemy\bin\Debug\netcoreapp2.1\5-enemy.xml
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\5-enemy\bin\Debug\netcoreapp2.1\5-enemy.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\5-enemy\bin\Debug\netcoreapp2.1\5-enemy.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\5-enemy\bin\Debug\netcoreapp2.1\5-enemy.runtimeconfig.dev.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\5-enemy\bin\Debug\netcoreapp2.1\5-enemy.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\5-enemy\bin\Debug\netcoreapp2.1\5-enemy.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\5-enemy\obj\Debug\netcoreapp2.1\5-enemy.csproj.AssemblyReference.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\5-enemy\obj\Debug\netcoreapp2.1\5-enemy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\5-enemy\obj\Debug\netcoreapp2.1\5-enemy.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\5-enemy\obj\Debug\netcoreapp2.1\5-enemy.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\5-enemy\obj\Debug\netcoreapp2.1\5-enemy.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\5-enemy\obj\Debug\netcoreapp2.1\5-enemy.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\5-enemy\obj\Debug\netcoreapp2.1\5-enemy.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\5-enemy\obj\Debug\netcoreapp2.1\5-enemy.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\5-enemy\obj\Debug\netcoreapp2.1\5-enemy.genruntimeconfig.cache

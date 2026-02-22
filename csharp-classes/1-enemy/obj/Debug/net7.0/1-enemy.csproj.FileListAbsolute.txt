@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\1-enemy\bin\Debug\net7.0\1-enemy.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\1-enemy\bin\Debug\net7.0\1-enemy.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\1-enemy\bin\Debug\net7.0\1-enemy.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\1-enemy\bin\Debug\net7.0\1-enemy.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\1-enemy\bin\Debug\net7.0\1-enemy.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\1-enemy\obj\Debug\net7.0\1-enemy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\1-enemy\obj\Debug\net7.0\1-enemy.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\1-enemy\obj\Debug\net7.0\1-enemy.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\1-enemy\obj\Debug\net7.0\1-enemy.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\1-enemy\obj\Debug\net7.0\1-enemy.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\1-enemy\obj\Debug\net7.0\1-enemy.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\1-enemy\obj\Debug\net7.0\refint\1-enemy.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\1-enemy\obj\Debug\net7.0\1-enemy.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\1-enemy\obj\Debug\net7.0\1-enemy.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-classes\1-enemy\obj\Debug\net7.0\ref\1-enemy.dll

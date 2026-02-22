@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary>
+            Defines a zombie with a public health field.
+            </summary>
+        </member>
+        <member name="F:Enemies.Zombie.health">
+            <summary>Health of the zombie.</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary>Initializes a new Zombie with 0 health.</summary>
+        </member>
+    </members>
+</doc>

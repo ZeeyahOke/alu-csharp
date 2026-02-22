@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>4-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary>
+            Defines a zombie with a private health field and name.
+            </summary>
+        </member>
+        <member name="F:Enemies.Zombie.health">
+            <summary>Health of the zombie.</summary>
+        </member>
+        <member name="F:Enemies.Zombie.name">
+            <summary>Name of the zombie.</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary>Initializes a new Zombie with 0 health.</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor(System.Int32)">
+            <summary>
+            Initializes a new Zombie with specified health.
+            </summary>
+            <param name="value">The health value.</param>
+            <exception cref="T:System.ArgumentException">Thrown when value is less than 0.</exception>
+        </member>
+        <member name="P:Enemies.Zombie.Name">
+            <summary>
+            Gets or sets the name of the Zombie.
+            </summary>
+        </member>
+        <member name="M:Enemies.Zombie.GetHealth">
+            <summary>
+            Gets the health of the Zombie.
+            </summary>
+            <returns>The health value.</returns>
+        </member>
+    </members>
+</doc>
