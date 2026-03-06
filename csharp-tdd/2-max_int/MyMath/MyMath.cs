@@ -1,39 +1,29 @@
-﻿using System;
+using System;
+using System.Collections.Generic;
 
-namespace MyMath{
-
-    public class Operations{
-
+namespace MyMath
+{
+    /// <summary>
+    /// Provides basic math operations.
+    /// </summary>
+    public class Operations
+    {
         /// <summary>
-        /// Finds the maximum integer in a list.
+        /// Returns the maximum integer in a list of integers.
         /// </summary>
-        /// <param name="nums"></param>
-        /// <returns>The maximum integer in the list, or 0 if the list is empty.</returns>
+        /// <param name="nums">List of integers.</param>
+        /// <returns>The maximum integer, or 0 if the list is empty.</returns>
         public static int Max(List<int> nums)
         {
-            int listLength = nums.Count;
-            if (listLength == 0)
-            {
+            if (nums == null || nums.Count == 0)
                 return 0;
-            }
-            else
-            {
-                if (nums != null)
-                {
-                    int MaxSoFar = nums[0];
-                    for (int i = 1; i < listLength; i++)
-                    {
-                        if (nums[i] > MaxSoFar)
-                        {
-                            MaxSoFar = nums[i];
-                        }
-                    }
 
-                    return MaxSoFar;
-                }
-            }
+            int max = nums[0];
+            foreach (int n in nums)
+                if (n > max)
+                    max = n;
 
-            return 0;
+            return max;
         }
     }
 }

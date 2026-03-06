@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/alu-csharp/csharp-tdd/1-divide/MyMath.Tests/MyMath.Tests.csproj": {}
+    "/Users/fawzo1/alu-csharp/csharp-tdd/1-divide/MyMath.Tests/MyMath.Tests.csproj": {}
   },
   "projects": {
-    "/workspaces/alu-csharp/csharp-tdd/1-divide/MyMath.Tests/MyMath.Tests.csproj": {
+    "/Users/fawzo1/alu-csharp/csharp-tdd/1-divide/MyMath.Tests/MyMath.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/alu-csharp/csharp-tdd/1-divide/MyMath.Tests/MyMath.Tests.csproj",
+        "projectUniqueName": "/Users/fawzo1/alu-csharp/csharp-tdd/1-divide/MyMath.Tests/MyMath.Tests.csproj",
         "projectName": "MyMath.Tests",
-        "projectPath": "/workspaces/alu-csharp/csharp-tdd/1-divide/MyMath.Tests/MyMath.Tests.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/alu-csharp/csharp-tdd/1-divide/MyMath.Tests/obj/",
+        "projectPath": "/Users/fawzo1/alu-csharp/csharp-tdd/1-divide/MyMath.Tests/MyMath.Tests.csproj",
+        "packagesPath": "/Users/fawzo1/.nuget/packages/",
+        "outputPath": "/Users/fawzo1/alu-csharp/csharp-tdd/1-divide/MyMath.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/Users/fawzo1/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/workspaces/alu-csharp/csharp-tdd/1-divide/MyMath/MyMath.csproj": {
-                "projectPath": "/workspaces/alu-csharp/csharp-tdd/1-divide/MyMath/MyMath.csproj"
+              "/Users/fawzo1/alu-csharp/csharp-tdd/1-divide/MyMath/MyMath.csproj": {
+                "projectPath": "/Users/fawzo1/alu-csharp/csharp-tdd/1-divide/MyMath/MyMath.csproj"
               }
             }
           }
@@ -36,7 +36,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net7.0": {
@@ -44,23 +50,15 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.6.0, )"
-            },
-            "NUnit": {
-              "target": "Package",
-              "version": "[3.13.3, )"
-            },
-            "NUnit.Analyzers": {
-              "target": "Package",
-              "version": "[3.6.1, )"
+              "version": "[17.8.0, )"
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[4.4.2, )"
+              "version": "[4.5.0, )"
             },
-            "coverlet.collector": {
+            "nunit": {
               "target": "Package",
-              "version": "[3.2.0, )"
+              "version": "[3.14.0, )"
             }
           },
           "imports": [
@@ -79,31 +77,31 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.306/sdk/7.0.306/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/workspaces/alu-csharp/csharp-tdd/1-divide/MyMath/MyMath.csproj": {
+    "/Users/fawzo1/alu-csharp/csharp-tdd/1-divide/MyMath/MyMath.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/alu-csharp/csharp-tdd/1-divide/MyMath/MyMath.csproj",
+        "projectUniqueName": "/Users/fawzo1/alu-csharp/csharp-tdd/1-divide/MyMath/MyMath.csproj",
         "projectName": "MyMath",
-        "projectPath": "/workspaces/alu-csharp/csharp-tdd/1-divide/MyMath/MyMath.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/alu-csharp/csharp-tdd/1-divide/MyMath/obj/",
+        "projectPath": "/Users/fawzo1/alu-csharp/csharp-tdd/1-divide/MyMath/MyMath.csproj",
+        "packagesPath": "/Users/fawzo1/.nuget/packages/",
+        "outputPath": "/Users/fawzo1/alu-csharp/csharp-tdd/1-divide/MyMath/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/Users/fawzo1/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "netstandard2.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -111,11 +109,25 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -127,12 +139,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.306/sdk/7.0.306/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }

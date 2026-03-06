@@ -7,48 +7,39 @@ namespace MyMath.Tests
     public class OperationsTests
     {
         [Test]
-        public void Add_TwoPositiveIntegers_ReturnsCorrectSum()
+        public void Add_TwoPositiveNumbers_ReturnsSum()
         {
-            // Arrange
-            int a = 2;
-            int b = 3;
-            int expected = 5;
-
-            // Act
-            int result = Operations.Add(a, b);
-
-            // Assert
-            Assert.That(result, Is.EqualTo(expected), "The sum of two positive integers should be correct.");
+            Assert.AreEqual(5, Operations.Add(2, 3));
         }
 
         [Test]
-        public void Add_NegativeAndPositiveInteger_ReturnsCorrectSum()
+        public void Add_PositiveAndNegative_ReturnsSum()
         {
-            // Arrange
-            int a = -2;
-            int b = 3;
-            int expected = 1;
-
-            // Act
-            int result = Operations.Add(a, b);
-
-            // Assert
-            Assert.That(result, Is.EqualTo(expected), "The sum of a negative and a positive integer should be correct.");
+            Assert.AreEqual(1, Operations.Add(3, -2));
         }
 
         [Test]
-        public void Add_TwoNegativeIntegers_ReturnsCorrectSum()
+        public void Add_TwoNegativeNumbers_ReturnsSum()
         {
-            // Arrange
-            int a = -2;
-            int b = -3;
-            int expected = -5;
+            Assert.AreEqual(-5, Operations.Add(-2, -3));
+        }
 
-            // Act
-            int result = Operations.Add(a, b);
+        [Test]
+        public void Add_WithZero_ReturnsSameNumber()
+        {
+            Assert.AreEqual(7, Operations.Add(7, 0));
+        }
 
-            // Assert
-            Assert.That(result, Is.EqualTo(expected), "The sum of two negative integers should be correct.");
+        [Test]
+        public void Add_BothZero_ReturnsZero()
+        {
+            Assert.AreEqual(0, Operations.Add(0, 0));
+        }
+
+        [Test]
+        public void Add_LargeNumbers_ReturnsSum()
+        {
+            Assert.AreEqual(2000000, Operations.Add(1000000, 1000000));
         }
     }
 }

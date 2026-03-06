@@ -1,26 +1,64 @@
-using System;
-using System.Numerics;
+using NUnit.Framework;
 using MyMath;
+using System.Collections.Generic;
 
-
-public class Tests
+namespace MyMath.Tests
 {
-    [SetUp]
-    public void Setup()
+    [TestFixture]
+    public class OperationsTests
     {
-    }
+        [Test]
+        public void Max_RegularList_ReturnsMax()
+        {
+            Assert.AreEqual(9, Operations.Max(new List<int> { 1, 9, 3, 7, 2 }));
+        }
 
-    [Test]
-    public void TestNull()
-    {
-        List<int> testList = new List<int>() { };
-        Assert.That(0, Is.EqualTo(Operations.Max(testList)));
-    }
+        [Test]
+        public void Max_EmptyList_ReturnsZero()
+        {
+            Assert.AreEqual(0, Operations.Max(new List<int>()));
+        }
 
-    [TestCase(90)]
-    public void TestMaxNumber(int value)
-    {
-        List<int> TempList = new List<int>() { 19, 10, 56, 90 };
-        Assert.That(90, Is.EqualTo(Operations.Max(TempList)));
+        [Test]
+        public void Max_SingleElement_ReturnsThatElement()
+        {
+            Assert.AreEqual(42, Operations.Max(new List<int> { 42 }));
+        }
+
+        [Test]
+        public void Max_AllNegative_ReturnsLeastNegative()
+        {
+            Assert.AreEqual(-1, Operations.Max(new List<int> { -1, -5, -3 }));
+        }
+
+        [Test]
+        public void Max_AllSame_ReturnsThatValue()
+        {
+            Assert.AreEqual(5, Operations.Max(new List<int> { 5, 5, 5 }));
+        }
+
+        [Test]
+        public void Max_ContainsZero_ReturnsCorrectMax()
+        {
+            Assert.AreEqual(3, Operations.Max(new List<int> { 0, 1, 3, 2 }));
+        }
+
+        [Test]
+        public void Max_NullList_ReturnsZero()
+        {
+            Assert.AreEqual(0, Operations.Max(null));
+        }
+
+        [Test]
+        public void Max_MaxAtStart_ReturnsMax()
+        {
+            Assert.AreEqual(100, Operations.Max(new List<int> { 100, 1, 2, 3 }));
+        }
+
+        [Test]
+        public void Max_MaxAtEnd_ReturnsMax()
+        {
+            Assert.AreEqual(100, Operations.Max(new List<int> { 1, 2, 3, 100 }));
+        }
     }
 }

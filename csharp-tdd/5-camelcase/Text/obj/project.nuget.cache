@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "mJXjkcV62mcmC3r+gMrmixuevea6iDRLUFIMaJcj0KT3exzlxDU/AhSFNL2WVJuEMYzFMDv/0327s5jICaCzNQ==",
+  "dgSpecHash": "cNje4y1oz1Y=",
   "success": true,
-  "projectFilePath": "/workspaces/alu-csharp/csharp-tdd/5-camelcase/Text/Text.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/fawzo1/alu-csharp/csharp-tdd/5-camelcase/Text/Text.csproj",
+  "expectedPackageFiles": [
+    "/Users/fawzo1/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/fawzo1/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

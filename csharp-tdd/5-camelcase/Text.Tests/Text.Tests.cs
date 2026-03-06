@@ -1,19 +1,58 @@
 using NUnit.Framework;
 using Text;
 
-public class Tests
+namespace Text.Tests
 {
-    [SetUp]
-    public void Setup()
+    [TestFixture]
+    public class StrTests
     {
-    }
+        [Test]
+        public void CamelCase_SingleWord_ReturnsOne()
+        {
+            Assert.AreEqual(1, Str.CamelCase("hello"));
+        }
 
-    [TestCase(0,"")]
-    [TestCase(1, "word")]
-    [TestCase(4, "thisDayWillCome")]
-    public void TestWordCount(int words, string sentence)
-    {
-        int result = Str.CamelCase(sentence);
-        Assert.That(words, Is.EqualTo(result));
+        [Test]
+        public void CamelCase_TwoWords_ReturnsTwo()
+        {
+            Assert.AreEqual(2, Str.CamelCase("helloWorld"));
+        }
+
+        [Test]
+        public void CamelCase_ThreeWords_ReturnsThree()
+        {
+            Assert.AreEqual(3, Str.CamelCase("saveMyLife"));
+        }
+
+        [Test]
+        public void CamelCase_EmptyString_ReturnsZero()
+        {
+            Assert.AreEqual(0, Str.CamelCase(""));
+        }
+
+        [Test]
+        public void CamelCase_NullString_ReturnsZero()
+        {
+            Assert.AreEqual(0, Str.CamelCase(null));
+        }
+
+        [Test]
+        public void CamelCase_ManyWords_ReturnsCorrectCount()
+        {
+            Assert.AreEqual(5, Str.CamelCase("thisIsALongString"));
+        }
+
+        [Test]
+        public void CamelCase_AllLowercase_ReturnsOne()
+        {
+            Assert.AreEqual(1, Str.CamelCase("abc"));
+        }
+
+        [Test]
+        public void CamelCase_ConsecutiveCapitals_CountsEach()
+        {
+            // "myABTest" -> my, A, B, Test = 4 words
+            Assert.AreEqual(4, Str.CamelCase("myABTest"));
+        }
     }
 }

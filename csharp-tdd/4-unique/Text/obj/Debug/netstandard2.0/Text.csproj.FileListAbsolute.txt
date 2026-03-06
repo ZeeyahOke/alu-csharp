@@ -1,0 +1,12 @@
+/Users/fawzo1/alu-csharp/csharp-tdd/4-unique/Text/bin/Debug/netstandard2.0/Text.xml
+/Users/fawzo1/alu-csharp/csharp-tdd/4-unique/Text/bin/Debug/netstandard2.0/Text.deps.json
+/Users/fawzo1/alu-csharp/csharp-tdd/4-unique/Text/bin/Debug/netstandard2.0/Text.dll
+/Users/fawzo1/alu-csharp/csharp-tdd/4-unique/Text/bin/Debug/netstandard2.0/Text.pdb
+/Users/fawzo1/alu-csharp/csharp-tdd/4-unique/Text/obj/Debug/netstandard2.0/Text.csproj.AssemblyReference.cache
+/Users/fawzo1/alu-csharp/csharp-tdd/4-unique/Text/obj/Debug/netstandard2.0/Text.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fawzo1/alu-csharp/csharp-tdd/4-unique/Text/obj/Debug/netstandard2.0/Text.AssemblyInfoInputs.cache
+/Users/fawzo1/alu-csharp/csharp-tdd/4-unique/Text/obj/Debug/netstandard2.0/Text.AssemblyInfo.cs
+/Users/fawzo1/alu-csharp/csharp-tdd/4-unique/Text/obj/Debug/netstandard2.0/Text.csproj.CoreCompileInputs.cache
+/Users/fawzo1/alu-csharp/csharp-tdd/4-unique/Text/obj/Debug/netstandard2.0/Text.sourcelink.json
+/Users/fawzo1/alu-csharp/csharp-tdd/4-unique/Text/obj/Debug/netstandard2.0/Text.dll
+/Users/fawzo1/alu-csharp/csharp-tdd/4-unique/Text/obj/Debug/netstandard2.0/Text.pdb

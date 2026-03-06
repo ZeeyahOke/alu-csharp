@@ -1,0 +1,12 @@
+/Users/fawzo1/alu-csharp/csharp-tdd/2-max_int/MyMath/bin/Debug/netstandard2.0/MyMath.xml
+/Users/fawzo1/alu-csharp/csharp-tdd/2-max_int/MyMath/bin/Debug/netstandard2.0/MyMath.deps.json
+/Users/fawzo1/alu-csharp/csharp-tdd/2-max_int/MyMath/bin/Debug/netstandard2.0/MyMath.dll
+/Users/fawzo1/alu-csharp/csharp-tdd/2-max_int/MyMath/bin/Debug/netstandard2.0/MyMath.pdb
+/Users/fawzo1/alu-csharp/csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.csproj.AssemblyReference.cache
+/Users/fawzo1/alu-csharp/csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fawzo1/alu-csharp/csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfoInputs.cache
+/Users/fawzo1/alu-csharp/csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfo.cs
+/Users/fawzo1/alu-csharp/csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.csproj.CoreCompileInputs.cache
+/Users/fawzo1/alu-csharp/csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.sourcelink.json
+/Users/fawzo1/alu-csharp/csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.dll
+/Users/fawzo1/alu-csharp/csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.pdb

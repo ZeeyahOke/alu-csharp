@@ -1,36 +1,40 @@
-﻿using System;
+using System;
+using System.Text.RegularExpressions;
 
 namespace Text
 {
+    /// <summary>
+    /// Provides string utility operations.
+    /// </summary>
     public class Str
     {
         /// <summary>
-        /// Determines if a string is a palindrome.
+        /// Determines whether a string is a palindrome.
+        /// Case-insensitive; spaces and punctuation are ignored.
+        /// An empty string is considered a palindrome.
         /// </summary>
         /// <param name="s">The string to check.</param>
-        /// <returns>True if the string is a palindrome, otherwise False.</returns>
+        /// <returns>True if s is a palindrome, False otherwise.</returns>
         public static bool IsPalindrome(string s)
         {
-            // Remove all non-alphanumeric characters and convert to lowercase
-            string cleanS = "";
-            foreach (char c in s)
-            {
-                if (char.IsLetterOrDigit(c))
-                {
-                    cleanS += char.ToLower(c);
-                }
-            }
+            if (s == null || s.Length == 0)
+                return true;
 
-            // Check if the cleaned string is a palindrome
-            int length = cleanS.Length;
-            for (int i = 0; i < length / 2; i++)
+            // Remove non-alphanumeric characters and convert to lowercase
+            string clean = Regex.Replace(s.ToLower(), "[^a-z0-9]", "");
+
+            if (clean.Length == 0)
+                return true;
+
+            int left = 0;
+            int right = clean.Length - 1;
+            while (left < right)
             {
-                if (cleanS[i] != cleanS[length - i - 1])
-                {
+                if (clean[left] != clean[right])
                     return false;
-                }
+                left++;
+                right--;
             }
-
             return true;
         }
     }

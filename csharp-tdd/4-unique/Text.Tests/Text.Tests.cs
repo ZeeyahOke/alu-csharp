@@ -7,59 +7,56 @@ namespace Text.Tests
     public class StrTests
     {
         [Test]
-        public void UniqueChar_WithNoUniqueChar_ReturnsMinusOne()
+        public void UniqueChar_FirstCharUnique_ReturnsZero()
         {
-            string input = "aabbcc";
-            int result = Str.UniqueChar(input);
-            Assert.AreEqual(-1, result);
+            // "leetcode" -> l appears once, is first unique at index 0
+            Assert.AreEqual(0, Str.UniqueChar("leetcode"));
+            // "zbcd" -> z appears once at index 0
+            Assert.AreEqual(0, Str.UniqueChar("zbcd"));
         }
 
         [Test]
-        public void UniqueChar_WithOneUniqueCharAtStart_ReturnsZero()
+        public void UniqueChar_UniqueInMiddle_ReturnsCorrectIndex()
         {
-            string input = "abcdde";
-            int result = Str.UniqueChar(input);
-            Assert.AreEqual(0, result);
+            // "loveleetcode" -> first unique is 'v' at index 2
+            Assert.AreEqual(2, Str.UniqueChar("loveleetcode"));
         }
 
         [Test]
-        public void UniqueChar_WithOneUniqueCharAtEnd_ReturnsIndex()
+        public void UniqueChar_AllRepeated_ReturnsNegativeOne()
         {
-            string input = "aabbccd";
-            int result = Str.UniqueChar(input);
-            Assert.AreEqual(6, result);
+            Assert.AreEqual(-1, Str.UniqueChar("aabb"));
         }
 
         [Test]
-        public void UniqueChar_WithMultipleUniqueChars_ReturnsFirstUniqueIndex()
+        public void UniqueChar_SingleChar_ReturnsZero()
         {
-            string input = "abcde";
-            int result = Str.UniqueChar(input);
-            Assert.AreEqual(0, result);
+            Assert.AreEqual(0, Str.UniqueChar("z"));
         }
 
         [Test]
-        public void UniqueChar_WithEmptyString_ReturnsMinusOne()
+        public void UniqueChar_EmptyString_ReturnsNegativeOne()
         {
-            string input = "";
-            int result = Str.UniqueChar(input);
-            Assert.AreEqual(-1, result);
+            Assert.AreEqual(-1, Str.UniqueChar(""));
         }
 
         [Test]
-        public void UniqueChar_WithAllRepeatingChars_ReturnsMinusOne()
+        public void UniqueChar_NullString_ReturnsNegativeOne()
         {
-            string input = "aabb";
-            int result = Str.UniqueChar(input);
-            Assert.AreEqual(-1, result);
+            Assert.AreEqual(-1, Str.UniqueChar(null));
         }
 
         [Test]
-        public void UniqueChar_WithSingleChar_ReturnsZero()
+        public void UniqueChar_AllSameChar_ReturnsNegativeOne()
         {
-            string input = "z";
-            int result = Str.UniqueChar(input);
-            Assert.AreEqual(0, result);
+            Assert.AreEqual(-1, Str.UniqueChar("aaaa"));
+        }
+
+        [Test]
+        public void UniqueChar_UniqueAtEnd_ReturnsLastIndex()
+        {
+            // "aabbc" -> unique is 'c' at index 4
+            Assert.AreEqual(4, Str.UniqueChar("aabbc"));
         }
     }
 }
